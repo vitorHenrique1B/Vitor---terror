@@ -1,21 +1,19 @@
 body {
-  color:white;
+  color: white;
   background: rgb(0, 0, 0);
   font-family: "Chakra Petch", serif;
 }
 
-header{ 
-    border-bottom: solid 2px rgb(42, 122, 258);
-    padding: 20px; 
-    font-size: 32px;
-    color: rgb(42, 122, 288)
-
+header { 
+  border-bottom: solid 2px rgb(42, 122, 258);
+  padding: 20px; 
+  font-size: 32px;
+  color: rgb(42, 122, 255); 
 }
 
 section {
   background: rgb(184, 15, 213);
-  padding-bottom: 80px;
-  padding-top: 80px;
+  padding: 80px 0;
   display: flex;
   justify-content: center;
 }
@@ -24,14 +22,14 @@ section {
   margin-right: 5%;
 }
 
-h1{
- font-size: 40px;
+h1 {
+  font-size: 40px;
 }
 
-p{
+p {
   font-size: 20px;
 }
 
-img{
+img {
   height: 200px;
 }
